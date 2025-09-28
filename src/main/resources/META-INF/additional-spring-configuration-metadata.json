@@ -1,0 +1,142 @@
+{"properties": [
+  {
+    "name": "application",
+    "type": "java.lang.String",
+    "description": "A description for 'application'"
+  },
+  {
+    "name": "web-application-type",
+    "type": "java.lang.String",
+    "description": "A description for 'web-application-type'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expiration'"
+  },
+  {
+    "name": "cloudinary.api_secret",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.api_secret'"
+  },
+  {
+    "name": "cloudinary.cloud_name",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.cloud_name'"
+  },
+  {
+    "name": "spring.applicationname",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.applicationname'"
+  },
+  {
+    "name": "cloudinary.api_key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.api_key'"
+  },
+  {
+    "name": "spring.application-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application-name'"
+  },
+  {
+    "name": "spring",
+    "type": "java.lang.String",
+    "description": "A description for 'spring'"
+  },
+  {
+    "name": "routes",
+    "type": "java.lang.String",
+    "description": "A description for 'routes'"
+  },
+  {
+    "name": "name",
+    "type": "java.lang.String",
+    "description": "A description for 'name'"
+  },
+  {
+    "name": "main",
+    "type": "java.lang.String",
+    "description": "A description for 'main'"
+  },
+  {
+    "name": "predicates",
+    "type": "java.lang.String",
+    "description": "A description for 'predicates'"
+  },
+  {
+    "name": "uri",
+    "type": "java.lang.String",
+    "description": "A description for 'uri'"
+  },
+  {
+    "name": "fetch-registry",
+    "type": "java.lang.String",
+    "description": "A description for 'fetch-registry'"
+  },
+  {
+    "name": "gateway",
+    "type": "java.lang.String",
+    "description": "A description for 'gateway'"
+  },
+  {
+    "name": "client",
+    "type": "java.lang.String",
+    "description": "A description for 'client'"
+  },
+  {
+    "name": "service-url",
+    "type": "java.lang.String",
+    "description": "A description for 'service-url'"
+  },
+  {
+    "name": "register-with-eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'register-with-eureka'"
+  },
+  {
+    "name": "discovery",
+    "type": "java.lang.String",
+    "description": "A description for 'discovery'"
+  },
+  {
+    "name": "enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'enabled'"
+  },
+  {
+    "name": "cloud",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud'"
+  },
+  {
+    "name": "locator",
+    "type": "java.lang.String",
+    "description": "A description for 'locator'"
+  },
+  {
+    "name": "prefer-ip-address",
+    "type": "java.lang.String",
+    "description": "A description for 'prefer-ip-address'"
+  },
+  {
+    "name": "instance",
+    "type": "java.lang.String",
+    "description": "A description for 'instance'"
+  },
+  {
+    "name": "eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka'"
+  },
+  {
+    "name": "defaultZone",
+    "type": "java.lang.String",
+    "description": "A description for 'defaultZone'"
+  }
+]}
